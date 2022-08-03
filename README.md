@@ -5,7 +5,7 @@ tags:
   - typescript
 ---
 
-# Deno Example
+# Deno Example!
 
 This example is a small [Deno](https://deno.land/) webserver.
 
