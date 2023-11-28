@@ -7,7 +7,7 @@ tags:
 
 # Deno Example
 
-This example is a small [Deno](https://deno.land/) webserver!!!
+This example is a small [Deno](https://deno.land/) webserver
 
 oops oops
 
