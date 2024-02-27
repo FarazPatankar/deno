@@ -1,5 +1,5 @@
 ---
-title: Deno
+title: Deno branched
 description: A small Deno webserver
 tags:
   - typescript
